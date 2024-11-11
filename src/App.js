@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="app-container">
       <h1 className="app-title">Student Management System</h1>
+      <p className="developer-info">Developed by Gundumi Sri Krishna Sudhindra</p>
       <StudentList />
     </div>
   );
